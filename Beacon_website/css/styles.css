@@ -1,0 +1,28 @@
+h1{
+  color : red;
+
+}
+
+
+img:hover{
+  background-color: orange;
+}
+
+
+/********************Class Selector*******************/
+.becon {
+  background-color: red;
+}
+
+.potato{
+  background-color: green;
+}
+
+.circular{
+  border-radius: 100%
+}
+/********************ID Selector*******************/
+
+#heading{
+  color: green;
+}
